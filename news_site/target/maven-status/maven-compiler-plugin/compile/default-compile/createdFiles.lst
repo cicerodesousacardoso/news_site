@@ -1,0 +1,5 @@
+com\example\news_site\NoticiaController.class
+com\example\news_site\NewsSiteApplication.class
+com\example\news_site\Noticia.class
+com\example\news_site\NoticiaRepository.class
+com\example\news_site\NoticiaService.class
